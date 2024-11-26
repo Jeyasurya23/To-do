@@ -4,7 +4,8 @@ todo_readme_new = """
 
 A sleek, responsive, and accessible Todo application built with React and modern CSS. This application provides a clean and intuitive interface for managing daily tasks with an enhanced user experience.
 
-![Todo App Screenshot](screenshot.png) <!-- Add a screenshot of your app -->
+![Todo App Screenshot](https://github.com/user-attachments/assets/5d6a2730-4597-459b-89cd-656cef75bd44)
+
 
 ## 🌟 Features
 
@@ -103,12 +104,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   --text-primary: #ffffff;
   --text-secondary: #888888;
 }
-
+```
 🌐 Live Demo
 View Live Demo 
 
 📧 Contact
 Jeyasurya - @yourtwitter
+
 Email - jeyasurya0100@gmail.com
 
 Project Link: https://github.com/jeyasurya23/todo-app
