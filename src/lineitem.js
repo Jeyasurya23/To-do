@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaTrash, FaTrashAlt} from  "react-icons/fa";
+import { FaTrashAlt} from  "react-icons/fa";
 
 const LineItem = ({item,handleCheck,deleting}) => {
   return (
